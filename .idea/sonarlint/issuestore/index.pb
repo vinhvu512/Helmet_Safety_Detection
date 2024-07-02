@@ -2205,3 +2205,5 @@ Zsafety_helmet_dataset/train/labels/person-197-_jpg.rf.95852e51f60f83eba68a85deb
 Zsafety_helmet_dataset/train/labels/helmet-282-_jpg.rf.357da7e7de7b761fdd457f480fb94cda.txt,4/b/4ba84a478e0d8381d32852e730725a4ac488f400
 Š
 Zsafety_helmet_dataset/train/labels/person-457-_jpg.rf.1f8143ff38921dbcb04c0deb59bb7f6c.txt,7/8/78fdfa7ae4e13308027b2593e103e347e3432ff0
+H
+sonar-project.properties,2/5/2538046035efb77ecc44e1fd2eec1e2641594d4c
