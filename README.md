@@ -41,10 +41,10 @@ To run the project locally, follow these steps:
    ```python
     from ultralytics import YOLOv10
     
-    # Load a pre-trained YOLOv10n model
+    # Load a trained helmet detection YOLOv10n model
     model = YOLOv10("models/yolov10n_helmet_detection.pt")
     
-    # Perform object detection on an image
+    # Perform helmet detection on an image
     results = model("image.jpg")
     
     # Display the results
