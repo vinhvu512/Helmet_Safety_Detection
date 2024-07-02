@@ -9,7 +9,7 @@ Original file is located at
 
 from ultralytics import YOLOv10
 
-MODEL_PATH = 'yolov10/yolov10n.pt'
+MODEL_PATH = 'models/yolov10n.pt'
 model = YOLOv10(MODEL_PATH)
 
 IMG_PATH = 'images/HCMC_Street.jpg'
